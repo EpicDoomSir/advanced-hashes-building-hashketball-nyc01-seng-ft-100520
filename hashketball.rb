@@ -88,9 +88,9 @@ def game_hash
         slam_dunks: 10
       },
       {
-        player_name: "",
-        number: 0,
-        shoe: 0,
+        player_name: "DeSagna Diop",
+        number: 2,
+        shoe: 14,
         points: 0,
         rebounds: 0,
         assists: 0,
