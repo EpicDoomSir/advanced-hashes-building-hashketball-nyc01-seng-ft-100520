@@ -28,14 +28,14 @@ def game_hash
       },
       {
         player_name: "Brook Lopez",
-        number: 0,
-        shoe: 0,
-        points: 0,
-        rebounds: 0,
-        assists: 0,
-        steals: 0,
-        blocks: 0,
-        slam_dunks: 0
+        number: 11,
+        shoe: 17,
+        points: 17,
+        rebounds: 19,
+        assists: 10,
+        steals: 3,
+        blocks: 1,
+        slam_dunks: 15
       },
       {
         player_name: "",
